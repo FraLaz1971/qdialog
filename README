@@ -1,6 +1,6 @@
-#to compile (tested on Linux ubuntu 18.04)
+#to compile (tested on Linux ubuntu 18.04) qmake can be also called as qmake
 #needs qt4
-qmake
+qmake-qt4
 make
 #to run
 ./qdialog --help
