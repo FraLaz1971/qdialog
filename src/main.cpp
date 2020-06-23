@@ -17,7 +17,8 @@
  ** This file is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE
  ** WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  **
- ** AUTHOR: Evgeniy V. Sergeev <evgeniy.sergeev@gmail.com>
+ ** AUTHOR: 2009 Evgeniy V. Sergeev <evgeniy.sergeev@gmail.com>
+ ** AUTHOR: 2020 Francesco Lazzarotto <fralaz1971@gmail.com>
  **
  ****************************************************************************/
 #include <QPushButton>

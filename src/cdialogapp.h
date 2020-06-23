@@ -35,7 +35,7 @@
 
 //! constants
 
-#define VERSION_QDIALOG "qdialog 0.1.1 28 June 2020 \n authors: \n 2009 Evgeniy V. Sergeev <evgeniy.sergeev@gmail.com> \n 2020 Francesco Lazzarotto <fralaz1971@gmail.com>"
+#define VERSION_QDIALOG "qdialog 0.1.1 28 June 2020 \n authors: \n 2009 Evgeniy V. Sergeev <evgeniy.sergeev@gmail.com> \n 2020 Francesco Lazzarotto <fralaz1971@gmail.com> \n"
 
 enum NCompatability
 {
