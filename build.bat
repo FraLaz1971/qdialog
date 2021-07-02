@@ -1,0 +1,1 @@
+g++ -static -static-libgcc -static-libstdc++ -mthreads -Wl,-subsystem,windows -o debug\qdialog.exe object_script.qdialog.Debug  -L"c:\Qt\4.8.7\lib" -lmingw32 -lqtmaind -lQtXmld4 -lQtGuid4 -lQtNetworkd4 -lQtCored4 -lQtTestd4

@@ -4,5 +4,9 @@ qmake-qt4
 make
 #to run
 ./qdialog --help
+#to compile on MS win using mingw g++ (tested on MS Windows Vista 32bit)
+qmake
+mingw32-make
+debug/qdialog --help
 
 

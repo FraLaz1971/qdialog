@@ -3,7 +3,8 @@
 ######################################################################
 
 CONFIG += qt xml gui thread
-QT += network xml
+win32:LIBS += -lQtTestd4
+QT += network xml 
 TEMPLATE = app
 TARGET = qdialog
 DEPENDPATH += . include src src/3rdparty
